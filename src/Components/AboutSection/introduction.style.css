@@ -1,0 +1,33 @@
+/* input{
+    margin-top:20px;
+    width:50px;
+    height:100px;
+}
+input::placeholder{
+    font-weight: bold;
+    color:black;
+} */
+.input-box{
+    margin-top:10px;
+    margin-bottom:10px;
+    height:40px;
+    width:300px;
+    border:1px solid black;
+    border-radius:5px;
+}
+.input-box::placeholder{
+    font-weight: bold;
+}
+.date-box{
+    margin-top:20px;
+    height:40px;
+    width:150px;
+    border:1px solid black;
+    border-radius:5px;
+}
+/* button{
+    margin-top:10px;
+    width:100px;
+    border:1px solid black;
+    border-radius:10px;
+} */

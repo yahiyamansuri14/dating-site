@@ -1,0 +1,31 @@
+.main-container{
+    margin-top:100px;
+}
+p{
+    font-size:30px;
+    font-weight:bold;
+}
+input{
+    margin-right:10px;
+    color:black;
+    font-weight: bolder;
+}
+.btn-ext{
+    width:100px;
+}
+.btn-num{
+    width:250px;
+}
+input::placeholder{
+    font-weight: bold;
+    color:black;
+}
+.seprator{
+    font-weight: bold;
+    font-size:40px;
+    margin-right:10px;
+}
+.get-otp{
+    color:rgba(117, 1, 194, 0.753);
+    font-size:20px;
+}

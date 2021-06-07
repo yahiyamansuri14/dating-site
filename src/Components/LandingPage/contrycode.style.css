@@ -1,0 +1,16 @@
+.header-container{
+    background-color: black;
+    color:white;
+    margin:0px;
+}
+.extension-container{
+    margin:0px;
+    background-color: white;
+    color:black;
+}
+p{
+    margin:0px;
+}
+hr{
+    border:1px solid black;
+}
